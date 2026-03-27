@@ -5,6 +5,7 @@ O sistema foi criado como parte dos estudos em programação, com foco na aplica
 
 ⚙️ Funcionalidades
 O sistema implementa operações completas de CRUD (Create, Read, Update, Delete) para as seguintes entidades:
+
 👤Sócios
   * Cadastro de novos membros
   * Consulta de dados
